@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(42, 42, 42);
+}
+.adjust-center{
+    text-align: center;
+}
+
+.title{
+    font-family: 'Brush Script MT', sans-serif, cursive;
+    background-image: linear-gradient(60deg, red, rgb(60, 0, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.title.main{
+    font-size: 100px;
+}
+
+.title.desc{
+    font-size: 50px;
+}
+
+.title.list{
+    font-size: 40px;
+    text-align: left;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:rgb(133, 133, 133);
+}
+
+.text.parag{
+    text-align: center;
+}
+
+.img-end-result{
+    text-align: center;
+    border-radius: 10px;
+}
